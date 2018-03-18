@@ -1,0 +1,11 @@
+(no,name,salary,add,gender)
+1,Sayali Sant,35000,Parle,Female
+2,Sanika Biwalkar,20000,Malad,Female
+3,Bhavnesh Firke,40000,Panvel,Male
+4,Hetvi Shah,35000,Kandivali,Female
+5,Amruth Bhat,500000,Andheri,Female
+6,Rahul Joshi,40000,Malad,Male
+7,Neha Tiwari,20000,Borivali,Female
+8,Vikrant Potnis,60000,Parle,Male
+9,Atharva Joglekar,45000,Malad,Male
+10,Shweta Pandit,35000,Dadar,Female
